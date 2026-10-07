@@ -1,0 +1,14 @@
+# Бинарники Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/bin/
+
+# Рабочие файлы
+.DS_Store
+.vscode/
+.idea/
