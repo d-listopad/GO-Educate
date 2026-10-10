@@ -4,7 +4,6 @@
 
 ## Содержание
 
-- [x] [Среда разработки: свой репозиторий pond и GitHub Codespaces](Prepare-development-environment.md)
-- [ ] Установка и проверка Go
-- [ ] Git и GitHub: как сдавать задачи и получать разбор
+- [x] [Среда разработки: свой репозиторий pond, GitHub Codespaces и проверка Go](Prepare-development-environment.md)
+- [x] [Git: коммиты, GitHub, ветки и pull request](../Git/README.md)
 - [x] [Как проходить урок](How-to-study.md)
