@@ -6,9 +6,9 @@ Git — инструмент, которым программисты сохра
 
 | Часть | Что внутри | Когда нужна |
 |---|---|---|
-| [1. Репозиторий и коммит](01-repository-and-commit.md) | Что такое git, репозиторий, коммит; `git status`, `git add`, `git commit`, `git diff`, `git log` | Шаг 0, задача 1 |
-| [2. GitHub: push и pull](02-github-push-pull.md) | Удалённый репозиторий, отправка коммитов в GitHub и получение их оттуда | Шаг 0, задача 1 |
-| [3. Ветки и pull request](03-branches-and-pull-requests.md) | Ветка, pull request, разбор кода, слияние ветки | Шаг 1, задача 1 |
+| [1. Репозиторий и коммит](01-repository-and-commit.md) | Что такое git, репозиторий, коммит; `git status`, `git add`, `git commit`, `git diff`, `git log` | Шаг 2, задача 1 |
+| [2. GitHub: push и pull](02-github-push-pull.md) | Удалённый репозиторий, отправка коммитов в GitHub и получение их оттуда | Шаг 2, задача 1 |
+| [3. Ветки и pull request](03-branches-and-pull-requests.md) | Ветка, pull request, разбор кода, слияние ветки | Шаг 3, задача 1 |
 
 ## Как здесь пишутся термины
 
