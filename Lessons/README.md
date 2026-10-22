@@ -29,3 +29,4 @@ Lessons/
 | [02](02-intro/lesson.md) | Предисловие: файл, пакет и программа на Go |
 | [03](03-variables/lesson.md) | Переменные и типы |
 | [04](04-operators/lesson.md) | Операторы и константы |
+| [05](05-input/lesson.md) | Число из текста |
