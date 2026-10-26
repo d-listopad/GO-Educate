@@ -2,19 +2,20 @@
 
 ## Что нужно
 
-Пройти [шаг 0](../lesson.md) до конца.
+Пройти [урок](../lesson.md) до конца.
 
 ## Критерии приёмки
 
-- [ ] Репозиторий `pond` создан в твоём аккаунте, рядом с именем метка **Private**.
-- [ ] Преподаватель `d-listopad` приглашён.
-      Как проверить: **Settings → Collaborators** репозитория — логин в списке
+- [ ] Репозиторий *pond* создан в твоём аккаунте, рядом с именем метка **Private**.
+- [ ] Преподаватель *d-listopad* приглашён.
+      **Как проверить:** **Settings** (настройки) → **Collaborators** (соавторы) репозитория — логин в списке
       (пометка **Pending Invite** — тоже выполнено).
-- [ ] На странице `pond` есть папка `.devcontainer`, в ней `devcontainer.json`.
-- [ ] Для `pond` ровно один Codespace, и он открывается.
-      Как проверить: [github.com/codespaces](https://github.com/codespaces) — одна строка:
-      случайное имя вроде *improved space garbanzo*, над ним `твой-логин/pond`. Нажми
+- [ ] На странице *pond* есть папка *.devcontainer*, в ней *devcontainer.json*.
+- [ ] Для *pond* ровно один Codespace, и он открывается.
+      **Как проверить:** [github.com/codespaces](https://github.com/codespaces) — одна строка:
+      случайное имя вроде *improved space garbanzo*, над ним *твой-логин/pond*. Нажми
       на имя — Codespace откроется. Если строк две, оставь тот, что открыт у тебя (его
       имя — внизу окна Codespace слева), у другого **…** справа → **Delete** (удалить) и подтверди.
 - [ ] Время до автоостановки — 15 минут.
-      Как проверить: аватарка → **Settings** → **Codespaces** → **Default idle timeout**.
+      **Как проверить:** аватарка → **Settings** (настройки) → **Codespaces** →
+      **Default idle timeout** (время простоя).
