@@ -26,7 +26,7 @@ Lessons/
 |---|---|
 | [00](00-setup/lesson.md) | Настройка среды |
 | [01](01-vscode/lesson.md) | Редактор VS Code |
-| [02](02-intro/lesson.md) | Предисловие: файл, пакет и программа на Go |
+| [02](02-intro/lesson.md) | Первая программа |
 | [03](03-variables/lesson.md) | Переменные и типы |
 | [04](04-operators/lesson.md) | Операторы и константы |
 | [05](05-input/lesson.md) | Число из текста |
